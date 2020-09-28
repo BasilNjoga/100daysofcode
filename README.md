@@ -8,3 +8,10 @@ I started my first challenge project, Remaking the netflix website main webpage,
 css and pictures
 #### Thoughts:
 Very excited, a bit scared if i can but hopefull
+
+### Day two:
+It took a minute to finally get down to coding, but im making strides, im working on the css for my netflix website main page.
+I have to take it one step at a time but its getting easier and im really excited to see the final output.
+Im not sure how forking works or how to edit the github log so i started my own hopefully ill figure it all out
+#### Thoughts: 
+It took a bit of struggle to start but i did and im moving.
