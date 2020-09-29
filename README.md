@@ -16,3 +16,10 @@ Im not sure how forking works or how to edit the github log so i started my own 
 #### Thoughts: 
 It took a bit of struggle to start but i did and im moving.
 **link to work** [Netflix Website](https://github.com/BasilNjoga/100daysofcode/blob/master/Netflix%20website.html)
+
+### Day Three: 
+Ive worked on finalising the css and adding the pictures for my project [Netflix Website updated](#)
+I started on finishing up on my css classes in freecord.org and working on my typing also
+This challenge has similarly encouraged me to pair it up with other things in  my life with the hope of finishing them
+#### Thoughts: 
+Im a bit tired but inspired and ready to achieve more.
