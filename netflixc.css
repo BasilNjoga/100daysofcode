@@ -1,0 +1,192 @@
+body{
+	background-color: #222222;
+	color: white;
+	font-family: arial;
+}
+#login{
+	height:700px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	padding-left: 0;
+}
+.main{
+	text-align: center;
+}
+.heading
+  {
+	color:red;
+	font-size: 40px;
+  }
+.signin a
+   {	
+	background-color: red;
+	font-size: 20px;
+	padding: 10px;
+	width: 70px;
+	color: white;
+	margin-left: 1184px;
+	text-decoration: none;	
+   }
+
+ button
+   {
+	background-color: #F40612;
+	font-size: 30px;
+	height: 70px;
+	width: 255px;
+	margin-top: 10px;
+	margin-left: 0;
+	padding: 0;
+	color: white;
+  }
+input {
+	width: 451px;
+	height: 66px;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.unlimited {
+	
+    font-size:50px ; 
+	margin: 100px 400px 0 424px;
+	padding: 0;
+	}
+	.cancel {
+	padding-left: 104px;
+	margin-top: 10px;
+	font-size: 30px;}
+	.ready {
+		padding-left: 104px;
+		font-size: 20px;
+	}
+		
+#enjoy{
+	display: flex;
+	height: 600px;
+	width: 100%;
+	background-color: black;
+	margin: 10px 0;
+}
+.yourtv{
+	padding-left:104px;
+	padding-top:149px;
+	margin-top: 0;
+	font-size: 50px;
+}
+.watchon {
+	padding-left: 104px;
+	margin-top: 10px;
+	font-size: 30px;
+	width: 513px;
+	
+}
+#enjoy nav {
+	width: 50%;
+}
+#enjoy img{
+	width: 528px;
+	height: 316px;
+	padding: 100px 60px;
+}
+#download {
+	height: 463px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	display: flex;
+}
+#download nav:first-child{
+	width: 40%;
+	
+}
+#download img{
+	width: 300px;
+	height:300px;
+	padding: 86px 0 0 188px;
+}
+.downloadshows{
+	padding:139px 0px 0px 144px;
+	font-size: 50px;
+	width: 531px;
+	margin: 0;
+}
+	.save{
+	padding: 0 0 0 144px;
+	margin-top: 10px;
+	font-size: 30px;
+	width: 497px;
+	}
+		
+#everywhere {
+	height: 500px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	margin-top: 10px;
+	display: flex;
+}
+#everywhere nav {
+	width: 50%;
+}
+#everywhere img{
+	padding: 104px 40px 50px 116px;
+	height: 280px;
+	width: 520px;
+}
+.watcheverywhere{
+	padding-left:121px;
+	padding-top:183px;
+    font-size: 50px;
+	margin:0;
+	}
+	
+.stream{
+	padding-left: 104px;
+	margin-top: 10px;
+	font-size: 30px;
+	width: 498px;
+	}
+#kids {
+	height: 500px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	display: flex;
+	margin-top: 10px;
+}
+#kids img{
+	width:571px;
+	height: 350px;
+padding: 100px 30px 0 50px;
+}
+.accessendless{
+	padding-left:104px;
+	padding-top:50px;
+    font-size: 50px; 
+	width: 464px;
+	}
+	
+.accessnew{
+ padding-left:104px;
+ margin-top: 10px;
+	font-size: 30px;
+	width: 536px;
+}	
+	
+#question {
+	height: 500px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	margin-top: 10px; 
+}
+#contacts {
+	height: 500px;
+	width: 100%;
+	background-color: black;
+	margin-left: 0;
+	margin-top: 10px;
+}
+	
