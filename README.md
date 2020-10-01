@@ -27,7 +27,7 @@ Im a bit tired but inspired and ready to achieve more.
 ### Day four: 
 Im writing this a bit late because i guess i forgot to update this but i finished most of my css on the site
 theres still a few things to be finished but i need to study more to get those down but i will.
-here is the link to my work {Netflix Wesite](#)
+here is the link to my work {Netflix Wesite](https://github.com/BasilNjoga/100daysofcode/blob/master/new%20netflix%20website.html)
 
 ### Day five: 
 I worked on a c project ive left lying around for weeks now, feels good to finally do it and continue in my cs50 course, 
