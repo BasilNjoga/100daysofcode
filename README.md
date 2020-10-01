@@ -23,3 +23,12 @@ I started on finishing up on my css classes in freecord.org and working on my ty
 This challenge has similarly encouraged me to pair it up with other things in  my life with the hope of finishing them
 #### Thoughts: 
 Im a bit tired but inspired and ready to achieve more.
+
+### Day four: 
+Im writing this a bit late because i guess i forgot to update this but i finished most of my css on the site
+theres still a few things to be finished but i need to study more to get those down but i will.
+here is the link to my work {Netflix Wesite](#)
+
+### Day five: 
+I worked on a c project ive left lying around for weeks now, feels good to finally do it and continue in my cs50 course, 
+hopefully i can get this down and finally consider myself a programmer
