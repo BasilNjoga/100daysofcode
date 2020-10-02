@@ -32,3 +32,11 @@ here is the link to my work [Netflix Wesite](https://github.com/BasilNjoga/100da
 ### Day five: 
 I worked on a c project ive left lying around for weeks now, feels good to finally do it and continue in my cs50 course, 
 hopefully i can get this down and finally consider myself a programmer
+
+### Day six: 
+I continued with my cs50 course im learning abour arrays, its still confusing but ill figure it out
+im finally continuing with my cs50 classes , hopefully i finish this finally its taken like weeks to get here.
+
+ 
+
+
