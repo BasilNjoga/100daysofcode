@@ -37,6 +37,10 @@ hopefully i can get this down and finally consider myself a programmer
 I continued with my cs50 course im learning abour arrays, its still confusing but ill figure it out
 im finally continuing with my cs50 classes , hopefully i finish this finally its taken like weeks to get here.
 
+### Day seven:
+**damn** This isnt as easy as i thoughy it would be, trying to get down my cs50 assignment but its pretty hard and theres a lot i need to
+understand before i can complete it, but i dont want to just get taught and breeze through, but also i kinda feel unworthy given just how hard these are and not 
+having a clue maybe i dont deserve to be here.
  
 
 
