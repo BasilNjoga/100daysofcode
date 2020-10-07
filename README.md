@@ -43,4 +43,17 @@ understand before i can complete it, but i dont want to just get taught and bree
 having a clue maybe i dont deserve to be here.
  
 
+### Day eight:
+It took a while learning how to make the luhns algorithm for authenticating credit card numbers using c. i dint finish all of it but i had a suitable bearing to begin.
+ 
+ ### Day nine: 
+ i finished up on most of the Luhns algorithm assigment, It runs properly i just need to set it to be able to determine the type of card from the number and 
+ not just its validity.
+#### Thoughts: 
+Its getting easier doing this everyday and im making incredible leaps in my coding journey.
 
+### Day ten: 
+I focused on learning css today and i learnt a lot about colour gradients and animations, Ive even made my own animaiton for a sky full of stars(pun intended).
+#### Thoughts: 
+Its takes a minute to get started but once i do i get so immersed in my coding i hardly want to stop, I dint realise theres this much css out there, i just hardly scratched the surface,
+I still have my cs50 week three to get down to so i should not forget about that *Keep going basil*
