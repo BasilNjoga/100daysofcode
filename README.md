@@ -57,3 +57,7 @@ I focused on learning css today and i learnt a lot about colour gradients and an
 #### Thoughts: 
 Its takes a minute to get started but once i do i get so immersed in my coding i hardly want to stop, I dint realise theres this much css out there, i just hardly scratched the surface,
 I still have my cs50 week three to get down to so i should not forget about that *Keep going basil*
+### Day Eleven: 
+Ive managed to finally finish up on my luhns algorithm, took a while but finally got it to identify the type of card and its validity from its code
+
+### Day twelve
