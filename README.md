@@ -61,3 +61,7 @@ I still have my cs50 week three to get down to so i should not forget about that
 Ive managed to finally finish up on my luhns algorithm, took a while but finally got it to identify the type of card and its validity from its code
 
 ### Day twelve
+Wow ive gone missing for a minute but im back, ill just continue from here, today i learnt and polished on my css responsive design and applied
+accesibility.
+#### Thoughts
+i slowed down and i hate that i did, but ill catch up again trust
