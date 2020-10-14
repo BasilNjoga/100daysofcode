@@ -65,3 +65,8 @@ Wow ive gone missing for a minute but im back, ill just continue from here, toda
 accesibility.
 #### Thoughts
 i slowed down and i hate that i did, but ill catch up again trust
+### Day Thirteen
+Here we go , ive finally finished my html and css course on freecodecamp.org it took me a minute but its progress, im currently looking at 
+as many projects as i can to get a firm grip of this before i dive into java script.
+** i know  im still going to finish cs50 **.
+
