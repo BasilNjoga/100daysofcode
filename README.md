@@ -70,3 +70,10 @@ Here we go , ive finally finished my html and css course on freecodecamp.org it 
 as many projects as i can to get a firm grip of this before i dive into java script.
 ** i know  im still going to finish cs50 **.
 
+### Day Fourteen.
+ive made some progress today, i spent most of the day doing a project on frontend mentor, ive finished on some cs50 class ive been procrastinating on hopefully i
+can finish problem set two and keep moving forward
+#### Comments
+Ive had to give up a lot of my social media its simply wasting so much of my time and the anxiety is just an added burden,im hoping to study more
+and to get better at my computer engineering hardware as well. :-)
+
