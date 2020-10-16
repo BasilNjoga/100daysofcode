@@ -76,4 +76,7 @@ can finish problem set two and keep moving forward
 #### Comments
 Ive had to give up a lot of my social media its simply wasting so much of my time and the anxiety is just an added burden,im hoping to study more
 and to get better at my computer engineering hardware as well. :-)
+###Day fifteen 
+Ive worked on a project on free code mentor and taken some 
+Time to learn more about making shapes and effects with css
 
