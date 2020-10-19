@@ -76,7 +76,19 @@ can finish problem set two and keep moving forward
 #### Comments
 Ive had to give up a lot of my social media its simply wasting so much of my time and the anxiety is just an added burden,im hoping to study more
 and to get better at my computer engineering hardware as well. :-)
-###Day fifteen 
+### Day fifteen 
 Ive worked on a project on free code mentor and taken some 
 Time to learn more about making shapes and effects with css
+### day sixteen(oct 17)
+ I continued on my front end mentor challenge, i completed most of it save for responsiveness
+ #### comments
+ finally realised just how complicated front end is, it took me like two days and the visible progress is so little
+ 
+ ### Day seventeen (oct 18)
+ I worked on my projects on freecodecamp i worked on a tribute page and a survey form
+ #### comments
+ ive trully come a long way, you cant exactly see just how far ive come but i have, ive even tried adapting more of this into my other activities and i hope top eventually
+ 
+ ### Day eighteen (oct 19)
+
 
