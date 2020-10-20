@@ -90,5 +90,8 @@ Time to learn more about making shapes and effects with css
  ive trully come a long way, you cant exactly see just how far ive come but i have, ive even tried adapting more of this into my other activities and i hope top eventually
  
  ### Day eighteen (oct 19)
-Ive worked on a freecodecamp project for building a webite
+Ive worked on a freecodecamp project for building a business homepage website. used grids for the first time.
+### Day ninteen (oct 20) 
+i worked on my c., ive made quite some progress since i started hopefully i can make suitable effort and complete this despite destractions
+
 
