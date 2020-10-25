@@ -93,5 +93,18 @@ Time to learn more about making shapes and effects with css
 Ive worked on a freecodecamp project for building a business homepage website. used grids for the first time.
 ### Day ninteen (oct 20) 
 i worked on my c., ive made quite some progress since i started hopefully i can make suitable effort and complete this despite destractions
+### Day twenty (oct 21)
+started working on a technical documentation projects. ive learnt the hard way always to save because i lost all my code and had to do it all over again.it was quite the hustle man.
+### Day twenty one( oct 22)
+finally finished with my technical documentation project and started immediately on the personal portfolio challenge cant wait to finish
+### Day twenty two(oct 23
+finished my personal portfolio challenge on freecode camp.org finishing it and finally finishing css and html and looked into some c.
+#### Thoughts 
+im finally done with this its taken a struggle but im moving albeit slower but sure.
+### Day twenty three(oct 24)
+slowed down a bit to figure out how exactly im moving. im working on my c challenges. they are a bit hard but ive resolved to continue with cs50 concurrently
+as just looking at projects slows me down significantly.
+### Day twenty four(oct 25)
+
 
 
