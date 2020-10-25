@@ -105,6 +105,8 @@ im finally done with this its taken a struggle but im moving albeit slower but s
 slowed down a bit to figure out how exactly im moving. im working on my c challenges. they are a bit hard but ive resolved to continue with cs50 concurrently
 as just looking at projects slows me down significantly.
 ### Day twenty four(oct 25)
+wow.. i finished cs50 lecture three. and im practicing more of c. i know its a bit ancient and its holding back my javascript but i need to get this down before i get into java
+and i will thanks
 
 
 
