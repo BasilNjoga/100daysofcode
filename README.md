@@ -107,6 +107,10 @@ as just looking at projects slows me down significantly.
 ### Day twenty four(oct 25)
 wow.. i finished cs50 lecture three. and im practicing more of c. i know its a bit ancient and its holding back my javascript but i need to get this down before i get into java
 and i will thanks
-
+### Day twenty five (monday oct 26)
+i worked on the readability project. my c is getting better and though it took a while i finished it.
+#### Thoughts 
+so far im making though very little progress but enough. my readability compiled and ran but it dint work with the cs50 check ill have to fix that
+and im so proud i did it with almost zero help i dint have to cheat even yay
 
 
