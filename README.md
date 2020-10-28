@@ -112,5 +112,11 @@ i worked on the readability project. my c is getting better and though it took a
 #### Thoughts 
 so far im making though very little progress but enough. my readability compiled and ran but it dint work with the cs50 check ill have to fix that
 and im so proud i did it with almost zero help i dint have to cheat even yay
+### Day twenty six (tuesday oct 27)
+i got a grip on command line arguments and switch statements i also watched several vedios of solving and sorting algorithms along with doing most 
+of the solution for caesar a text cipher algorithm.
+#### Thoughts
+im moving a bit faster i hope to finish cs50 by the end of this week to finally put an end to this and proceed to new stuff ie javascript 
+
 
 
