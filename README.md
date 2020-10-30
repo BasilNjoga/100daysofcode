@@ -117,6 +117,15 @@ i got a grip on command line arguments and switch statements i also watched seve
 of the solution for caesar a text cipher algorithm.
 #### Thoughts
 im moving a bit faster i hope to finish cs50 by the end of this week to finally put an end to this and proceed to new stuff ie javascript 
-
+ 
+ ### Day twenty seven (wed oct 28)
+ I finished cs50 lesson 4, its a bit too forward for me but im moving and i will bring my skills up to speed with it
+ 
+ ### Day twenty eight (thur oct 29)
+ today was a bit slow i did a bit of ceaser my code is almost done minus a few output ciphering issues
+ 
+ ### Day twenty nine (friday oct )
+ It took me a minute to get down to work today..but when i did ive realised my c has gotten so much better i almost understand my way around now and my typing is pretty good
+ ive finished caesar without having too much help and ive started substitution.
 
 
