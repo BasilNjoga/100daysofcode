@@ -128,4 +128,9 @@ im moving a bit faster i hope to finish cs50 by the end of this week to finally 
  It took me a minute to get down to work today..but when i did ive realised my c has gotten so much better i almost understand my way around now and my typing is pretty good
  ive finished caesar without having too much help and ive started substitution.
 
-
+### Day Thirty (sunday )
+i had a bit of a breakdown on saturday but its healthy to take regular breaks i guess.. i was a bit lost on how to move on i hit a snag on a project on c
+but today i decided and started on  my javascript im quarter way gone which is pretty good and im happy im making progress
+#### Note to self
+I know it really hurts,..i did kinda like her.. no one will understand and i hate feeling alone but ill get better.. just focus on your work and go with the motions basil
+love you..
