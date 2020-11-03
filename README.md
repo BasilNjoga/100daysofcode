@@ -134,3 +134,8 @@ but today i decided and started on  my javascript im quarter way gone which is p
 #### Note to self
 I know it really hurts,..i did kinda like her.. no one will understand and i hate feeling alone but ill get better.. just focus on your work and go with the motions basil
 love you..
+
+### day thirty one (monday)
+I went forwardw with my javascript its essentially still the basics but im moving
+#### Thougths
+im seeing a lot of people complaining about its difficulty ive not gotten a solid base yet and im stuck on c.. im kinda scared but we'll see i guess
