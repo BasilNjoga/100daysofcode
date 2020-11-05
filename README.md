@@ -139,3 +139,9 @@ love you..
 I went forwardw with my javascript its essentially still the basics but im moving
 #### Thougths
 im seeing a lot of people complaining about its difficulty ive not gotten a solid base yet and im stuck on c.. im kinda scared but we'll see i guess
+### day thirty two (tuesday)
+i finished my substitution project it took a minute but when i finally sat down to it i did it
+### day thirty three( wednesday)
+i continued with javascript im 66 percent done i need to keep pushing to finish this and not let distractions stop me
+### day thirty four (thursday)
+I started on plurality,, it took me practically all afternoon im yet to finish it ive hit a snag at sorting it but imm taking a break ill come back stronger and i will finish this.
