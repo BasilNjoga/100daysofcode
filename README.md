@@ -146,3 +146,10 @@ i continued with javascript im 66 percent done i need to keep pushing to finish 
 ### day thirty four (thursday)
 I started on plurality,, it took me practically all afternoon im yet to finish it ive hit a snag at sorting it but imm taking a break ill come back stronger and i will finish this.
 ** update ** Ive finished it finally managed to sort it,.. its not as hard as it seems just need a few pointers to build on the thoery but yes were moving
+### day thirty five(friday)
+i dint do much ive been working on the runoff challenge but i dint get very far its a bit hard
+### Day thirty six (sunday)
+i skipped saturday it was a bit of a bummer today i tried the runoff challenge ive understood most of it and i made a vote collection function..but im still stuck but ill try to be done with this as soon as possible
+### Thoughts 
+its been a while me trying to figure this all out and stuff but i almost have i know what im doing next and its c++,, thats my current plan and thats where im going.. i just need to finish these exercises faster and get to the good stuff
+
