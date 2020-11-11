@@ -152,4 +152,12 @@ i dint do much ive been working on the runoff challenge but i dint get very far 
 i skipped saturday it was a bit of a bummer today i tried the runoff challenge ive understood most of it and i made a vote collection function..but im still stuck but ill try to be done with this as soon as possible
 ### Thoughts 
 its been a while me trying to figure this all out and stuff but i almost have i know what im doing next and its c++,, thats my current plan and thats where im going.. i just need to finish these exercises faster and get to the good stuff
-
+### Day thirty seven (monday)
+i watched all the shorts on pointers and file pointers.. its all so jumbled up now im not sure if ill get anywhere with it but well see
+### Day thirty eight (tuesday)
+I worked on runoff and learning about sorting techniques,.. and i also spent a good deal of the day figuring vscode .. i dint achieve too much but i felt like i made 
+serious progress
+### Day thirty nine (wednesday)
+I worked most of the day on runoff.. its hard but im almost done i just need to implement some code.. ive also started on lecture five im aiming to absorb more information and make even bigger strides
+### thoughts
+Ive made it so far i just need to lock in on more hours of practice on my coding and stuff.. lets see how this goes.
