@@ -161,3 +161,8 @@ serious progress
 I worked most of the day on runoff.. its hard but im almost done i just need to implement some code.. ive also started on lecture five im aiming to absorb more information and make even bigger strides
 ### thoughts
 Ive made it so far i just need to lock in on more hours of practice on my coding and stuff.. lets see how this goes.
+### Day fourty(thursday)
+i finished runoff...ok not exactly finished but most of it is gone so i wont worry about it for a while..i started a bit of c++ also..not too much just basic syntax
+#### Thoughts
+Im mostly working on movin forward.. the best way of solving a challenge is to focus on something else for a while. ive gotten down most of the syntax for c i just need to finish up on a few points then head into c++ next week while finallising my current c projects ofcourse
+### Day fourtyone (saturday)
