@@ -166,3 +166,7 @@ i finished runoff...ok not exactly finished but most of it is gone so i wont wor
 #### Thoughts
 Im mostly working on movin forward.. the best way of solving a challenge is to focus on something else for a while. ive gotten down most of the syntax for c i just need to finish up on a few points then head into c++ next week while finallising my current c projects ofcourse
 ### Day fourtyone (saturday)
+I dint do much on saturday or sunday at that i started c++ and figured out the teaching tools id use for learining them moving forward..and i learnt how to write my hello world in c++ and what most of the syntax actually means
+
+### Day fourty two(monday)
+Ive focused on my filters challenge in pset4 finally getting down to it i realised i made it so hard in my head when it was actually really easy i need to remember to just do it regardless of how daunting it seems
