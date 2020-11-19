@@ -170,3 +170,8 @@ I dint do much on saturday or sunday at that i started c++ and figured out the t
 
 ### Day fourty two(monday)
 Ive focused on my filters challenge in pset4 finally getting down to it i realised i made it so hard in my head when it was actually really easy i need to remember to just do it regardless of how daunting it seems
+### Day fourty three(tuesday)
+I got far enough with filters but got stuck..im still working on it.. ive made strides in c++ data types, variables and more syntax
+### Day fourty four (wednesday)
+Im finding it harder to work consistently i finally finished some my front end development project it wasnt exactly perfect. and i also worked on some parts of my filter project 
+along with figuring out input in c++;
