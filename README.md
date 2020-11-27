@@ -175,3 +175,8 @@ I got far enough with filters but got stuck..im still working on it.. ive made s
 ### Day fourty four (wednesday)
 Im finding it harder to work consistently i finally finished some my front end development project it wasnt exactly perfect. and i also worked on some parts of my filter project 
 along with figuring out input in c++;
+
+*** Short Break *** 
+### Day fourty five (thursday 27th november)
+i took a break for a while i had exams and everything so it needed to focus but im back and im ready to finish what i started.
+
