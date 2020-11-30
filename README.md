@@ -178,5 +178,13 @@ along with figuring out input in c++;
 
 *** Short Break *** 
 ### Day fourty five (thursday 27th november)
-i took a break for a while i had exams and everything so it needed to focus but im back and im ready to finish what i started.
+i took a break for a while i had exams and everything so it needed to focus but im back and im ready to finish what i started.i did a bit of c++ im still getting my footing right.
+### Day fourty six (friday)
+i contiued with c++ im through almost half of the introduction to c++ vedio. The syntax is similar to c im not sure if im making a lot of progress
+### Day fourty seven (saturday)
+i worked on functions and loops and im getting a bit comfortable with the syntax but im just getting an hour i need to do more
+
+### Day fourty eight(monday)
+sunday was hard i couldnt get anything done but thats ok i guess.. today i came with a lot of renewed energy ive finished seventy percent of c++ syntax. its more or less
+similar to c., i can write more complicated programs and can use loops conditional statements.. im also getting back to finishing cs50 
 
