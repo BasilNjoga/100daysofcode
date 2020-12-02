@@ -187,4 +187,8 @@ i worked on functions and loops and im getting a bit comfortable with the syntax
 ### Day fourty eight(monday)
 sunday was hard i couldnt get anything done but thats ok i guess.. today i came with a lot of renewed energy ive finished seventy percent of c++ syntax. its more or less
 similar to c., i can write more complicated programs and can use loops conditional statements.. im also getting back to finishing cs50 
+### Day fourty nine (tuesday)
+I worked on a bit of c and c++ i finished my introduction to c++ course and im oriented into object oriented programming,. im just starting but ill take a break on c++ and focus on finishing cs50 for a minute
+### Day fifty (wednesday)
+It hasnt been exactly the most productive day but i finished my cs50 databases lecturers and im starting with the shorts.. cs50 is so large im not sure if i can finish it but im surely gonna try. :)
 
