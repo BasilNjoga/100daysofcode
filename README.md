@@ -191,4 +191,12 @@ similar to c., i can write more complicated programs and can use loops condition
 I worked on a bit of c and c++ i finished my introduction to c++ course and im oriented into object oriented programming,. im just starting but ill take a break on c++ and focus on finishing cs50 for a minute
 ### Day fifty (wednesday)
 It hasnt been exactly the most productive day but i finished my cs50 databases lecturers and im starting with the shorts.. cs50 is so large im not sure if i can finish it but im surely gonna try. :)
+<br>
+### Dat fifty one (monday 7th december 2020)
+Hey i dissapeared again but im back. i finished the shorts finally, they took a minute to digest and everything.. ive watched the vedio for the problem set 4b and honestly im confused but well see
+### Dat fifty two (tuesday 8th december 2020)
+I started on the problem sets.. its almost impossible i dont think i can do it but im going to try i learnt how to work with strings in c though im still a bit stuck figuring out how to get user input for user defined variables
+### Day fifty one ( wednesday 9th december 2020)
+I keep picking myself up and i keep falling but im not giving up,..even if its just an hour im going to do it.. im struggling to figure out how to make this.. most of my code is 
+just random stuff but im pushing and not giving up lets goooooooooo...
 
